@@ -40,7 +40,7 @@ Further optimization through hyperparameter tuning, larger datasets, or extended
 
 ### 👨‍💻 Author
 Emmanuel Ebiendele  
-Data Scientist | Machine Learning Engineer | Zindi Ambassador | Community Builder  
+Data Scientist | Machine Learning Engineer 
 
 📫 Connect with me:  
 - 💼 [LinkedIn – Emmanuel Ebiendele](https://www.linkedin.com/in/emmanuel-ebiendele-063ba0255)  
